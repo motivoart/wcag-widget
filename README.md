@@ -126,5 +126,3 @@ To extend the plugin:
 - Add new actions inside the `accessibilityOptions` list.
 - Define new visual behaviors in the `WcagStyles` helper.
 - Adjust cookie logic in `WcagCookies` if adding new settings.
-
-# wcag-widget
